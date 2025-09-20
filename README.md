@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [(https://faresahmed.netlify.app/)] 
+- 👨‍💻 All of my projects are available at [https://faresahmedelsisi.netlify.app/] 
 
 - 📫 How to reach me **fareselsisi35@gmail.com**
 
