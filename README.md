@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://faresahmedelsisi.netlify.app/] 
 
 - 📫 How to reach me **fareselsisi35@gmail.com**
-- 📄 View My Resume: [https://drive.google.com/file/d/.../view](https://drive.google.com/file/d/1_TQkeB6te1Yijjb3aWZFRA7w67pipWbF/view]
+- 📄 View My Resume: [https://drive.google.com/file/d/1_TQkeB6te1Yijjb3aWZFRA7w67pipWbF/view]
 
 
 <h3 align="left">Connect with me:</h3>
